@@ -12,7 +12,7 @@ Edit config.mk to match your local setup (dmenu is installed into the `/usr/loca
 Afterwards enter the following command to build and install dmenu
 (if necessary as root):
 ```
-    make clean install
+make clean install
 ```
 ## Patches
  - dmenu-border
