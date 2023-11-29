@@ -1,6 +1,8 @@
 # dmenu - dynamic menu
 dmenu is an efficient dynamic menu for X.
 
+## Screenshots
+![Dmenu screenshot](https://i.imgur.com/HCSZNun.png)
 
 ## Requirements
 In order to build dmenu you need the Xlib header files.
